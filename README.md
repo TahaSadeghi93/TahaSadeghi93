@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TahaSadeghi93
+- 👋 Hi, I’m @TahaSadeghiChorsi
 - 👀 I’m interested in Python, C and bash programming.
 - 📫 How to reach me: send an email to taha4@usf.edu
 
